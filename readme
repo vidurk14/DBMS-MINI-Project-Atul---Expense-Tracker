@@ -1,0 +1,26 @@
+# Expense Tracking System – DBMS Mini Project
+
+## Overview
+This project demonstrates the use of a Database Management System (DBMS) for managing personal and business financial data. Users can record expenses, incomes, budgets, and generate reports using SQL queries.
+
+## Technologies Used
+- DBMS: MySQL 8.0+
+- Frontend: HTML, CSS, JavaScript (suggested)
+- Backend (optional): PHP (Laravel) or Node.js (Express)
+- Tools: MySQL Workbench, VS Code, Postman, Chart.js
+
+## Features
+- Secure user registration
+- Income and expense tracking
+- Budget planning
+- Audit logging
+- Predefined analytical SQL queries
+
+## How to Use
+1. Run `schema.sql` to create all tables.
+2. Run `seed.sql` to insert demo data.
+3. Use `queries.sql` for sample analytics/reporting.
+
+## Author
+- Name: Atul Singh
+- UID: 23BCA10701
